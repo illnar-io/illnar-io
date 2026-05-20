@@ -1,6 +1,6 @@
 # Ilnar Nizametdinov
 
-**Backend Developer · Systems Engineer · Python Specialist · Tech Enthusiast · Geek **
+**Backend Developer · Systems Engineer · Python Specialist**
 
 📍 Purmerend, The Netherlands · 🌐 Open to Remote & On-site
 
@@ -62,7 +62,7 @@ LLM integration · Prompt engineering · Celery async workflows · ETL pipelines
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### [PowerCV](https://github.com/illnar-io)
 AI-driven backend system for CV parsing, structured data extraction, content generation, and job application workflow automation.
@@ -73,6 +73,34 @@ AI-driven backend system for CV parsing, structured data extraction, content gen
 - PostgreSQL with optimized queries (150-220ms avg response time)
 - Automated ETL pipelines transforming unstructured text into structured datasets
 - Full test coverage with Pytest
+
+### [Power Hz](https://github.com/illnar-io/power_hz)
+Intelligent Linux power management system for Fedora/Nobara that dynamically optimizes display refresh rates, GPU performance, and system power consumption based on battery status.
+
+- Dynamic refresh rate switching (24Hz–240Hz+) with VRR/FreeSync/G-Sync support
+- Real-time battery monitoring with automatic mode switching (performance → ultra saver)
+- OLED burn-in prevention, PSR/FBC/CABC hardware feature utilization
+- 30-50% battery life improvement in ultra power saving mode
+- Systemd service integration with continuous metrics logging
+
+### [Power Switcher](https://github.com/illnar-io/power_switcher)
+DE-independent keyboard layout auto-switcher for Linux Wayland — like PuntoSwitcher/CarambaSwitcher, but native to Linux.
+
+- Grabs physical keyboard at kernel level via `evdev`, passes through virtual `uinput`
+- N-gram language detection on rolling word buffer with auto-convert on word boundary
+- Direct text injection (backspace + re-type) — no `ydotool` needed
+- Works on GNOME, KDE Plasma, Sway, Hyprland with D-Bus/compositor backends
+- Multi-layout support (EN, RU, UA, DE) with hotkey conversion & undo
+
+### [DUSK Kernel](https://github.com/illnar-io/dusk_kernel)
+Custom Android GKI kernel for Pixel 6 (oriole) with integrated root, stealth, and compatibility layers.
+
+- KernelSU-Next for kernel-mode root access on GKI devices
+- SUSFS v2.1.0 inline hooks for root hiding and userspace masking
+- ntSync backport (Linux 6.14) for Wine/Proton gaming performance
+- Droidspaces container/namespace isolation for Android app sandboxing
+- BBR TCP congestion control, MGLRU memory tuning, Baseband Guard
+- GitHub Actions CI/CD with automated kernel builds and patch management
 
 ---
 
