@@ -104,9 +104,23 @@ Python Programming · Algorithms & Data Structures · Go Development · FastAPI 
 
 ## Connect
 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-illnar--io-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/illnar-io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/illnar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/illnar-io)
+[![Telegram](https://img.shields.io/badge/Telegram-ILLnar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ILLnar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nizametdinov@gmail.com)
+
+---
+
+## Support
+
+If my work helps you, you can support it here:
+
+- ⭐ **GitHub Sponsors**: <https://github.com/sponsors/illnar-io>
+- **Ko-Fi**: <https://ko-fi.com/illnar>
+- **PayPal**: [nizametdinov@gmail.com](mailto:nizametdinov@gmail.com)
+- **Bunq**: <https://bunq.me/INizametdinov>
+- **Revolut**: `@illnar_nizami`
 
 ---
 
